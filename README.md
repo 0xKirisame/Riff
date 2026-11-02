@@ -4,6 +4,9 @@ A small, local music player for macOS. Riff keeps your library on your Mac, play
 your files through a native WebKit window, and can save songs from a link with
 `yt-dlp` — with a persistent download queue.
 
+Full disclosure: Riff is **vibecoded** — designed and built with AI assistance
+end-to-end.
+
 ## Features
 
 - **Local library** — add files or whole folders, search and sort, edit playlists.
